@@ -1,0 +1,10 @@
+{
+  "user_pool_id": "us-west-2_XXXXXXXXX",
+  "domain_prefix": "returns-gateway-xxxxxxxx",
+  "client_id": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "client_secret": "REPLACE_WITH_YOUR_COGNITO_CLIENT_SECRET",
+  "token_endpoint": "https://your-domain.auth.us-west-2.amazoncognito.com/oauth2/token",
+  "discovery_url": "https://cognito-idp.us-west-2.amazonaws.com/us-west-2_XXXXXXXXX/.well-known/openid-configuration",
+  "region": "us-west-2",
+  "resource_server_identifier": "returns-gateway-api"
+}

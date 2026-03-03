@@ -1,0 +1,13 @@
+# Python cache/env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local generated workshop bundle
+agentcore-workshop.tar.gz
+
+# AWS/runtime secrets and environment-specific configs
+cognito_config.json
+runtime_config.json
+*_config.local.json

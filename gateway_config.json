@@ -1,0 +1,8 @@
+{
+  "id": "returnsrefundsgateway-uxgokboiyh",
+  "gateway_id": "returnsrefundsgateway-uxgokboiyh",
+  "gateway_url": "https://returnsrefundsgateway-uxgokboiyh.gateway.bedrock-agentcore.us-west-2.amazonaws.com/mcp",
+  "gateway_arn": "arn:aws:bedrock-agentcore:us-west-2:571806540395:gateway/returnsrefundsgateway-uxgokboiyh",
+  "name": "ReturnsRefundsGateway",
+  "region": "us-west-2"
+}

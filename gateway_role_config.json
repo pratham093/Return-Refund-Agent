@@ -1,0 +1,8 @@
+{
+  "role_arn": "arn:aws:iam::571806540395:role/GatewayExecutionRole",
+  "role_name": "GatewayExecutionRole",
+  "policy_arn": "arn:aws:iam::571806540395:policy/GatewayLambdaInvokePolicy",
+  "policy_name": "GatewayLambdaInvokePolicy",
+  "region": "us-west-2",
+  "account_id": "571806540395"
+}
