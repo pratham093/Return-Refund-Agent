@@ -1,8 +1,0 @@
-{
-  "role_name": "AgentCoreRuntimeExecutionRole",
-  "role_arn": "arn:aws:iam::571806540395:role/AgentCoreRuntimeExecutionRole",
-  "policy_name": "AgentCoreRuntimeExecutionPolicy",
-  "policy_arn": "arn:aws:iam::571806540395:policy/AgentCoreRuntimeExecutionPolicy",
-  "region": "us-west-2",
-  "account_id": "571806540395"
-}
